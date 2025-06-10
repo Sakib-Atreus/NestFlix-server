@@ -10,4 +10,3 @@ import { GenreModule } from './genre/genre.module';
   providers: [AppService],
 })
 export class AppModule {}
-
